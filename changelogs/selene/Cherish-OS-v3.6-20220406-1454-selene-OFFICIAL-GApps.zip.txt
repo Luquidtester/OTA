@@ -1,0 +1,12 @@
+Changelog v3.6
+
+ • Synced CherishOS v3.6 changes
+ • April Securty patch
+ • added Dolby from Moto G
+ • Upstreamed Kernel to 4.14.275
+ • Misc. Fixes and Improvements
+ 
+Credits:
+
+ • @ceb8khs @SakthivelNadar @ashblk @chcepizze @TheMalachite @Mikazuuu07 For DT
+ • @askairt for Great Server
