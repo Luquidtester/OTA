@@ -1,0 +1,30 @@
+Changelog v3.6.5 23/04/2022
+
+Device Changelog
+ • Cleanup backlight overlays
+ • Enable Seamless Transfer
+ • Enable TWS plus feature using persist property
+ • Enable config_vibrateOnIconAnimation 
+ • GrapheneOSCamera: Update to V21 
+ • Misc. Fixes and Improvements
+
+Source Changelog
+* Added extended/"L" back swipe to trigger actions/app/activities
+* Added switch last app to gesture actions
+* Added IME button space optional
+* Added hide arrow for back gesture
+* Added vibration patterns from OOS
+* Added choosing a custom vibration pattern
+* Enhanced Battery Prediction from Turbo
+* Added sim status listener in about phone
+* SystemUI: Made the volume dialog expandable
+* Added Face Unlock animation
+* Improved clear all button styles
+* Improved volume panel position 
+* Settings: Show About phone instead of Android version in header
+* Added Monet for launcher3 in vanilla builds 
+* Fixed chip visibility in split shade header
+* Fixed the problem with google dialer show popup
+* Updated Monet launcher icons 
+* Updated translation from crowdin
+* Improve other systems
